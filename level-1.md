@@ -6,10 +6,10 @@ Since you're a rising developer, it's about time we get you up to speed on some 
 Develeopers do, but they do it in code.
 
 ## Why?
-- When you buy a set of shelves from IKEA, it comes with insutructions.
-- When you open a brand new 3D-Printer, it comes with insturctions.
+- When you buy a set of shelves from IKEA, it comes with instructions.
+- When you open a brand new 3D-Printer, it comes with instructions.
 
-The code you create doesn't come with insturctions. You, the programatic architect, have to write the insturctions. You know your coding infustruction better than anyone. So, you need to write the documentation on your code for the next developer that uses your code.
+The code you create doesn't come with instructions. You, the programatic architect, have to write the insturctions. You know your coding layout better than anyone. So, you need to write the documentation on your code for the next developer that uses your code.
 
 In 6 months, your instructions will then help show, even you, how to continue programming.
 
@@ -22,7 +22,7 @@ There are three ways to talk to yourself in Javascript:
 Logs, comments, and function anmes give insight and context as to what is going on.
 
 Headsup:
-`console.log()` is a way to test your code in the momement. The logs should not stay in your code for very long.
+`console.log()` is a way to test your code in the moment. The logs should not stay in your code for very long.
 
 ## See it for your own eyes
 ```
